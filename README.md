@@ -11,7 +11,7 @@ p.red{font-size:20px;}
 </style>
 </head>
 <body>
-<h1>NEW YARK CENTRAL PART</h1>
+<h1>NEW YARK CENTRAL PARK</h1>
 <h3 id="top">HOME</h3>
 <h3 id="top1">BROWSE</h3>
 <h3 id="top2">SEARCH</h3>
