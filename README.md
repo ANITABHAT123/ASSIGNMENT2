@@ -25,7 +25,7 @@ p.red{font-size:20px;}
 <section id="sec1">
 <h2>DESCRIPTION</h2>
 <p class="red">Central Park is an urban park in New York City located between the Upper West and Upper East Sides of Manhattan.</p>
-<img src="newyark1.jpg" width="200px" hieght="200px">
+<img src="newyark1.jpg" width="200px" hieght="200px" alt="images">
 <div>
 <p>It is the fifth-largest park in the city by area, covering 843 acres (341 ha).<br>
  It is the most visited urban park in the United States, with an estimated 42 million visitors annually as of 2016
