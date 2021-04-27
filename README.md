@@ -36,9 +36,9 @@ and is the most filmed location in the world.</p>
 </section>
 <section id="sec2">
 <h2>RELATED PHOTOS<h2>
-<img src="newyark2.jpg" width="150px" hieght="150px">
-<img src="newyark3.jpg" width="150px" hieght="150px">
-<img src="newyark4.jpg" width="150px" hieght="150px">
+<img src="newyark2.jpg" width="150px" hieght="150px" alt="images">
+<img src="newyark3.jpg" width="150px" hieght="150px" alt="images">
+<img src="newyark4.jpg" width="150px" hieght="150px" alt="images">
 </section>
 <section id="sec3">
 <h2>REVIWES<h2>
